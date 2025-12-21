@@ -17,60 +17,56 @@ CrewSync consolidates them into one system of record.
 One platform. One data model. One source of truth.
 
 ⸻
+## 🧱 Core Platform Capabilities
 
-🧱 Core Platform Capabilities
+### Jobs, Scheduling & Dispatch
+- Job scheduling and assignments  
+- Cost codes and job profitability  
+- Route optimization  
+- Supervisor approvals  
+- Offline field execution  
 
+### Fleet & Assets
+- Vehicle tracking and maintenance  
+- OBD-II / GPS integrations  
+- Mileage and drive-time rules  
+- Fleet cost allocation per job  
 
+### Inventory & Equipment
+- Inventory tracking and reordering  
+- Barcode scanning  
+- Equipment service history  
+- Warranty and maintenance logs  
 
-Jobs, Scheduling & Dispatch
-    •    Job scheduling & assignments
-    •    Cost codes & job profitability
-    •    Route optimization
-    •    Supervisor approvals
-    •    Offline field execution
+### Communication & Proof of Work
+- In-app chat and supervisor messaging  
+- Photo and video documentation  
+- Job checklists and sign-offs  
+- Emergency and escalation workflows  
 
-Fleet & Assets
-    •    Vehicle tracking & maintenance
-    •    OBD-II / GPS integrations
-    •    Mileage & drive-time rules
-    •    Fleet cost allocation per job
+### Analytics & Intelligence
+- Labor and fleet cost analytics  
+- Job margin tracking  
+- Utilization insights  
+- Compliance and audit logs  
 
-Inventory & Equipment
-    •    Inventory tracking & reordering
-    •    Barcode scanning
-    •    Equipment service history
-    •    Warranty & maintenance logs
+### Workforce & Payroll
+- Time and attendance (GPS + offline)  
+- Multi-rate payroll and job-based pay  
+- Overtime and compliance tracking  
+- Certified payroll and exports  
+- Contractor (1099) and employee (W-2) support
 
-Communication & Proof of Work
-    •    In-app chat & supervisor messaging
-    •    Photo/video documentation
-    •    Job checklists & sign-offs
-    •    Emergency & escalation workflows
+## 🏗 Architecture
 
-Analytics & Intelligence
-    •    Labor & fleet cost analytics
-    •    Job margin tracking
-    •    Utilization insights
-    •    Compliance & audit logs
-Workforce & Payroll
-    •    Time & attendance (GPS + offline)
-    •    Multi-rate payroll & job-based pay
-    •    Overtime & compliance tracking
-    •    Certified payroll & exports
-    •    Contractor (1099) + employee (W-2) support
-⸻
+CrewSync is built as a **multi-tenant, enterprise-ready platform**:
 
-🏗 Architecture
-
-CrewSync is built as a multi-tenant, enterprise-ready platform:
-    •    Firebase Authentication
-    •    Firestore (real-time, offline-first)
-    •    Cloud Functions (Node.js / TypeScript)
-    •    Role-based access control (RBAC)
-    •    Audit-ready event logging
-    •    API & webhook support
-
-⸻
+- Firebase Authentication  
+- Firestore (real-time, offline-first)  
+- Cloud Functions (Node.js / TypeScript)  
+- Role-based access control (RBAC)  
+- Audit-ready event logging  
+- Public APIs and webhooks  
 
 🧠 Why an “Operating System”?
 
