@@ -68,38 +68,36 @@ CrewSync is built as a **multi-tenant, enterprise-ready platform**:
 - Audit-ready event logging  
 - Public APIs and webhooks  
 
-🧠 Why an “Operating System”?
+## 🧠 Why an “Operating System”?
 
-CrewSync is not just an app — it is a foundational system that powers how field service companies operate day-to-day.
+CrewSync is not just an app — it is a **foundational system** that powers how commercial field service companies operate day-to-day.
 
 It unifies:
-    •    People
-    •    Jobs
-    •    Vehicles
-    •    Money
-    •    Data
+
+- People  
+- Jobs  
+- Vehicles  
+- Money  
+- Data  
 
 Into one cohesive operational layer.
 
-⸻
+## 📦 Status
 
-📦 Status
-    •    Platform core: Built
-    •    Mobile apps (iOS / Android): Active development
-    •    Enterprise features: Rolling out
-    •    Customers: Pre-launch / pilots
+- Platform core: **Built**
+- Mobile apps (iOS / Android): **Active development**
+- Enterprise features: **Rolling out**
+- Customers: **Pre-launch / pilots**
 
-⸻
+## 🔒 Licensing & IP
 
-🔒 Licensing & IP
-
-CrewSync is proprietary software.
+CrewSync is proprietary software.  
 This repository is for product overview, architecture, and positioning only.
 
-⸻
+## 📬 Contact
 
-📬 Contact
-
-CrewSync Technologies
-Commercial Field Operations Software
+**CrewSync Technologies**  
+Commercial Field Operations Software  
 kenny 
+📧 crewsync.tech@outlook.com 
+🌐 https://crewsync.tech *(coming soon)*
