@@ -97,7 +97,7 @@ This repository is for product overview, architecture, and positioning only.
 ## 📬 Contact
 
 **CrewSync Technologies**  
-Commercial Field Operations Software  
-kenny 
-📧 crewsync.tech@outlook.com 
-🌐 https://crewsync.tech *(coming soon)*
+- Commercial Field Operations Software  
+- kenny 
+- 📧 crewsync.tech@outlook.com 
+- 🌐 
